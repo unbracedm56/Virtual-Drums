@@ -10,6 +10,8 @@ This project is a simple virtual drum kit that you can play in your web browser.
 ## Installation
 To run this project locally:
 
+(Instead you can just click on the web link: https://unbracedm56.github.io/Virtual-Drums/)
+
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/unbracedm56/Virtual-Drums.git
